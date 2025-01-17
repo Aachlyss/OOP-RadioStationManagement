@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ivanangelov/Documents/GitHub/OOP-RadioStationManagement",
+      "program": "/Users/ivanangelov/Documents/GitHub/OOP-RadioStationManagement/build/Debug/outDebug"
+    }
+  ]
+}
